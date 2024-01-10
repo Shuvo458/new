@@ -1,0 +1,50 @@
+.header{
+    height: 100px;
+    background-color: red;
+}
+
+.wrapper{
+    overflow: hidden;
+}
+
+.contact{
+    float: left;
+    width: 50%;
+    border: 5px solid black;
+    height: 150px;
+    background-color:green;
+    box-sizing: border-box;
+}
+
+.blog{
+    float: right;
+    height: 150px;
+    border: 5px solid black;
+    width: 50%;
+    background-color: brown;
+    box-sizing: border-box;
+}
+
+.container{
+    overflow: hidden;
+}
+
+.box{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.pink{
+    background-color: rgb(153, 71, 85);
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: rgb(101, 230, 101);
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+}
